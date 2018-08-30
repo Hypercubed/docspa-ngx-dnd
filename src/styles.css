@@ -15,3 +15,7 @@ footer hr {
   border-bottom: 1px solid var(--theme-color-secondary-light, #0074d92e);
   margin: 2em 20%;
 }
+
+.sidebar .sidebar-nav ul li {
+  white-space: nowrap;
+}
